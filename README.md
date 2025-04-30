@@ -8,8 +8,8 @@ Soy una estudiante desarrolladora senior con interés en el desarrollo web y el 
 
 ## Proyectos destacados
 
-- **Gestor de tareas:** Aplicación web desarrollada con Python y Django. [Repositorio](https://github.com/lauradev/gestor-tareas)
-- **Juego en JavaScript:** [Repositorio](https://github.com/lauradev/juego-js)
+- **Creadora de ebooks:** 
+
 
 ## Tecnologías que utilizo
 
