@@ -4,7 +4,7 @@
 **egoipse-byte/egoipse-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Sobre mí
 
-Soy una desarrolladora junior con interés en el desarrollo web y el aprendizaje continuo.
+Soy una desarrolladora senior con interés en el desarrollo web y el aprendizaje continuo.
 
 ## Proyectos destacados
 
